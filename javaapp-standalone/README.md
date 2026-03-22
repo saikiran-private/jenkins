@@ -1,4 +1,4 @@
-# ArtisanTek Java Sample - Lightweight Edition.
+# ArtisanTek Java Sample - Lightweight Edition..
 
 A beautiful and extremely lightweight Java 21 web application built with Javalin, designed for memory-constrained environments.
 
