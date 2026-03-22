@@ -1,4 +1,4 @@
-# Jenkins Examples for DevOps Engineers
+# Jenkins Examples for DevOps Engineers.
 
 This repository contains Java application examples demonstrating different Jenkins deployment strategies and CI/CD patterns.
 
